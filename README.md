@@ -7,7 +7,7 @@ available to read completely free of charge.
 ## Progress
 
 1. Welcome
-  1. [ ] Introduction
+  1. [x] Introduction
   2. [ ] A Map of the Territory
   3. [ ] The Lox Language
 2. A Tree-Walk Interpreter

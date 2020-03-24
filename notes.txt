@@ -1,0 +1,33 @@
+01 - Introduction
+
+'little languages'/DSLs are everywhere
+
+how well do you really understand how your code works?
+
+SICP has a wizard, Aho, Sethi, Ullman has a dragon - magic!
+
+* (This book is beautiful -- have you seen the code snippets? and the asides! wow!)
+
+human aspects, are, in fact, discussed
+  - what makes features easy to learn
+  - innovation vs familiarity
+  - readability of syntax
+
+* don't assume the guy knows everything, play around with the ideas presented
+I do like practical books
+
+bootstrapping - in the compiler world, this is self-compiling (self-hosting) compiler
+
+* you should learn a smattering of Java first
+
+naming things is really hard.
+
+good name criteria:
+  1. not in use
+  2. pronouncable
+  3. distinct (searchable)
+  4. no negative connotations
+if these fit, use the name. a "unique token" is the only important thing.
+hint: cn vs cnfront vs ...!!!
+
+02 - A Map of the Territory

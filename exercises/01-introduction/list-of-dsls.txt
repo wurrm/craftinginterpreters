@@ -1,0 +1,10 @@
+1 - Markdown is used as the primary language for writing the book
+2 - Make is used to make everything
+3 - Rules are specified in .gitignore - they need parsing
+4 - HTML is used to present the book on the web
+5 - Ditto CSS
+6 - CSS is compiled from SASS sheets
+7 - jinja2 is used for the html templates
+8 - Intellij uses XML to point to projects
+9 - Xcode also uses XML as well as weird pbxproj thing
+10 - Python eggs have a small PKG-INFO file for various metadata
