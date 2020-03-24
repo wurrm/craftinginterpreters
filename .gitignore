@@ -1,0 +1,10 @@
+# Languages
+bin
+build
+spike
+
+# C
+*.o
+
+# Java
+*.class
