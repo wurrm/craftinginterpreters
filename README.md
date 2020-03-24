@@ -6,11 +6,11 @@ available to read completely free of charge.
 
 ## Progress
 
-1. Welcome
+### 1. Welcome
   1. [x] Introduction
   2. [ ] A Map of the Territory
   3. [ ] The Lox Language
-2. A Tree-Walk Interpreter
+### 2. A Tree-Walk Interpreter
   4. [ ] Scanning
   5. [ ] Representing Code
   6. [ ] Parsing Expressions
@@ -21,7 +21,7 @@ available to read completely free of charge.
   11. [ ] Resolving and Binding
   12. [ ] Classes
   13. [ ] Inheritance
-3. A Bytecode Virtual Machine
+### 3. A Bytecode Virtual Machine
   14. [ ] Chunks of Bytecode
   15. [ ] A Virtual Machine
   16. [ ] Scanning on Demand
